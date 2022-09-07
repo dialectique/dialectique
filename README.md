@@ -1,4 +1,4 @@
-<h1 align="center">Welcome 👋</h1>
+<h1 align="center">Hi, I am Gilles👋</h1>
 <h3 align="center">I am into Python project development, data processing/engineering, machine learning and deep learning.</h3>
 
 <h3 align="left">Connect with me:</h3>
