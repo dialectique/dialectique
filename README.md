@@ -1,8 +1,5 @@
-### Welcome 👋
-
-I am into Python project development, data processing/engineering, machine learning and deep learning.
-<h1 align="center">Hi 👋, I'm aaa</h1>
-<h3 align="center">aaa</h3>
+<h1 align="center">Welcome 👋</h1>
+<h3 align="center">I am into Python project development, data processing/engineering, machine learning and deep learning.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
