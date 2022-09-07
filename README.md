@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Gilles👋</h1>
 <h3 align="center">I am into Python project development, data processing/engineering, machine learning and deep learning.</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>
@@ -19,5 +19,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<h3 align="left">Connect with me:</h3>
 -->
 
