@@ -9,6 +9,8 @@
 
 LinkedIn: <https://www.linkedin.com/in/gilles-chardon/>
 
+Portfolio: <troopl.com/gilleschardon>
+
 <!--
 **dialectique/dialectique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
